@@ -1,6 +1,6 @@
 <?php
 
-$con = mysqli_connect('localhost', 'admin' ,'admin','MULTIMEDIA_COMP');
+$con = mysqli_connect('localhost', 'root' ,'1325131','MULTIMEDIA_COMP');
 
 if(mysqli_connect_errno()){
     die('Failed to connect to MySQL'.mysqli_connect_error());

@@ -45,23 +45,23 @@ CREATE TABLE RATING (
 INSERT INTO USERS (SSN,Name,Surname,YearOfBirth)
 VALUES ('SMTPLA80N31B791Z','James','Jones','1980');
 INSERT INTO USERS (SSN,Name,Surname,YearOfBirth)
-VALUES ('SMTPLA90B21B791Z','Anna','Kamila','1982');
+VALUES ('ANK2LA90B21B791Z','Anna','Kamila','1982');
 INSERT INTO USERS (SSN,Name,Surname,YearOfBirth)
-VALUES ('SMTPSA80N31B791Z','Bob','Hope','2000');
+VALUES ('BBHPSA80N31B791Z','Bob','Hope','2000');
 INSERT INTO USERS (SSN,Name,Surname,YearOfBirth)
-VALUES ('SMTPLA80L98B791Z','Sarah','Oreily','1998');
+VALUES ('SRO6LA80L98B791Z','Sarah','Oreily','1998');
 INSERT INTO USERS (SSN,Name,Surname,YearOfBirth)
-VALUES ('SMTPLA80N31B723V','Helena','Novak','1987');
+VALUES ('HKL2LA80N31B723V','Helena','Novak','1987');
 INSERT INTO USERS (SSN,Name,Surname,YearOfBirth)
-VALUES ('SMTPLALB249JN23B','Thomas','Vinterberg','2002');
+VALUES ('THVPLALB249JN23B','Thomas','Vinterberg','2002');
 INSERT INTO USERS (SSN,Name,Surname,YearOfBirth)
-VALUES ('SMTPLA804G83791Z','Elena','Meyer','1976');
+VALUES ('ELMPLA804G83791Z','Elena','Meyer','1976');
 INSERT INTO USERS (SSN,Name,Surname,YearOfBirth)
-VALUES ('SMTPLA80N31N4B39','Lara','Cohen','1996');
+VALUES ('LRCPLA80N31N4B39','Lara','Cohen','1996');
 INSERT INTO USERS (SSN,Name,Surname,YearOfBirth)
-VALUES ('SMTPLA80N318291Z','Janet','jackson','1980');
+VALUES ('JJK2LA80N318291Z','Janet','jackson','1980');
 INSERT INTO USERS (SSN,Name,Surname,YearOfBirth)
-VALUES ('SMTPLA765MSB791Z','James','Karlile','2003');
+VALUES ('JK24LA765MSB791Z','James','Karlile','2003');
 
 
 
