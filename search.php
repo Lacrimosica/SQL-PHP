@@ -18,6 +18,7 @@ $result = mysqli_query($con, $sql);
 if($result){
     die('Query error: '.mysqli_error($con));
 }
+
 echo "<table>";
 echo "<tr>";
 echo "<th> No. </th> <th> Date </th> <th> Evaluation </th> <th> Genre </th>";
