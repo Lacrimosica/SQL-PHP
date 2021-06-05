@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Exam</title>
+    <style>
+      .green {
+        background-color: limegreen;
+      }
+      .red {
+        background-color: red;
+      }
+      :is(.green, .red) {
+        max-width: 80%;
+        margin: 2rem auto;
+        padding: 0.5rem;
+        color: white;
+      }
+      :is(.green, .red) header h3 {
+        margin-top: 0;
+      }
+      :is(.green, .red) main p {
+        margin-bottom: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <section id="result">
+      <div class="green">
+        <header><h3>Congratulations</h3></header>
+        <main>
+          <p>
+            hooollllllaaaa
+          </p>
+        </main>
+      </div>
+    </section>
+  </body>
+</html>
